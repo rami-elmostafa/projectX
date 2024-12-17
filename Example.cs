@@ -3,6 +3,6 @@
 public class Example
 {
     public static void(string[] args) {
-        console.writeline("Hello");
+        console.writeline("Hello")
     }
 }
